@@ -1,0 +1,25 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "a math calculator using cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Specifying",
+    "keywords",
+    "for",
+    "users",
+    "to",
+    "search",
+    "if",
+    "you",
+    "wanna",
+    "put",
+    "this",
+    "online"
+  ],
+  "author": "Stephen Fong",
+  "license": "ISC"
+}
